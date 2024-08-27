@@ -12,7 +12,7 @@ Mentor: NEELA SANTOSH KUMAR </pre>
 <p>Project: Creating a simple calculator by using python programming</p> 
 <h3>Objective</h3>
 <p>The objective of the project is to perform simple operation of calculator like addition, subtraction, multiplication,division etc.</p>
-<h3>How to run</h3><br>
+<h3>How to run</h3>
 <ul>
   <li>Firstly, enter your first number</li>
   <li>Now enter your operator (+,-,*,/,%) </li>
