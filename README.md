@@ -11,7 +11,7 @@ Mentor: NEELA SANTOSH KUMAR </pre>
 <hr>
 <p>Project: Creating a simple calculator by using python programming</p> 
 <h3>Objective</h3>
-<p>The objective of the project is to perform simple operation of calculator like addition, subtraction, multiplication,division etc.</p><br>
+<p>The objective of the project is to perform simple operation of calculator like addition, subtraction, multiplication,division etc.</p>
 <h3>How to run</h3><br>
 <ul>
   <li>Firstly, enter your first number</li>
