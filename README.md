@@ -22,6 +22,11 @@ Mentor: NEELA SANTOSH KUMAR </pre>
 <ul>
   <li>Python programming</li>
 </ul>
-
+<pre>
+  Enter your first number:20
+  Enter  operation(+,-,*,/,%): *
+  Enter your second number: 5
+  The result is:100.0
+</pre>
 
                              
