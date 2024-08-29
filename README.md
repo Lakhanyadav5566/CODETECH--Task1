@@ -22,6 +22,7 @@ Mentor: NEELA SANTOSH KUMAR </pre>
 <ul>
   <li>Python programming</li>
 </ul>
+<h3>Example</h3>
 <pre>
   Enter your first number:20
   Enter  operation(+,-,*,/,%): *
